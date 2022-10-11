@@ -460,8 +460,9 @@ body, #app-mount, .app-2CXKsg, .bg-1QIAus {
     background-color: var(--background-base);
 }
 
-.member-2gU6Ar, .member-2gU6Ar > div {
-    background-color: var(--background-base);
+.member-48YF_l,
+.members-3WRCEx {
+    background-color: var(--background-primary);
 }
 
 .zoomedCarouselModalRoot-beLNhM.root-g14mjS {
