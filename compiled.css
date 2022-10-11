@@ -460,6 +460,10 @@ body, #app-mount, .app-2CXKsg, .bg-1QIAus {
     background-color: var(--background-base);
 }
 
+.member-2gU6Ar, .member-2gU6Ar > div {
+    background-color: var(--background-base);
+}
+
 #app-mount .messageListItem-ZZ7v6g:hover {
     background-color: rgba(255, 255, 255, 0.028);
 }
