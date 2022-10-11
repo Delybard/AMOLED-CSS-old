@@ -464,6 +464,11 @@ body, #app-mount, .app-2CXKsg, .bg-1QIAus {
     background-color: var(--background-base);
 }
 
+.zoomedCarouselModalRoot-beLNhM.root-g14mjS {
+    box-shadow: none !important;
+    background-color: transparent !important;
+}
+
 #app-mount .messageListItem-ZZ7v6g:hover {
     background-color: rgba(255, 255, 255, 0.028);
 }
